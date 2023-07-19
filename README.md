@@ -48,6 +48,17 @@ The server will be running at `http://localhost:3000`.
 
 - **Endpoint:** `router.delete('/:id', userController.deleteUser);`
 
+## Contribution Guide
 
+To contribute to this project, please follow these guidelines:
+- Fork the repository.
+- Create a new branch for your feature/fix.
+- Make your changes and commit them with a clear message.
+- Push your changes to your forked repository.
+- Submit a pull request to the original repository.
+
+## License
+
+This project is licensed under the MIT License.
 
 
