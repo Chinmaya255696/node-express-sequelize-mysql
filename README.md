@@ -21,7 +21,7 @@ npm install
 
 ### Running the App
 
-Start the server by npm start
+Start the server by `npm start`
 
 
 The server will be running at `http://localhost:3000`.
