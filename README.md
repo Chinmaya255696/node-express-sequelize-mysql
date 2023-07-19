@@ -13,7 +13,7 @@ This is a simple CRUD (Create, Read, Update, Delete) app using Node.js, Express,
 ### Installing
 
 1. Clone this repository
-git clone [https://github.com/your-username/sequelize-crud-app](https://github.com/Chinmaya255696/node-express-sequelize-mysql).git
+git clone https://github.com/Chinmaya255696/node-express-sequelize-mysql.git
 
 2. Install dependencies
 `cd node-express-sequelize-mysql`
